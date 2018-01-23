@@ -2,7 +2,7 @@
 
 Here are some screen shots of the App.
 
-![](https://github.com/kaisssssssss/MyNews/blob/master/Screenshot_20180122-221742.jpg =400x200)
+<img src="https://github.com/kaisssssssss/MyNews/blob/master/Screenshot_20180122-221742.jpg" width="480">
 
 ![Main Activity2](https://github.com/kaisssssssss/MyNews/blob/master/Screenshot_20180122-221818.jpg =400x)
 
